@@ -1,0 +1,183 @@
+@media screen and (max-width: 600px) {
+  .img{
+    height: 100vh;
+    object-fit: contain;
+  }
+.container-bar{
+  display: block;
+  margin-bottom: 250px;
+  margin-left: 30px;
+   
+}
+
+#nav-bar {
+  text-align: start
+}
+
+.icon {
+  padding: 10px;
+  border-left: none;
+  border-right: none;
+  font-size: 16px;
+  
+}
+
+.container-12 ,#job-info .container{
+  display: block;
+  max-width: 600px;
+  margin-right: 30px;
+}
+
+.container-12 .icon{
+  padding-left: 30px;
+}
+
+#target{
+  background-color: #adb5bd;
+}
+
+.kinh-nghiem,.hoc-van,.hoat-dong{
+  margin-bottom: 30px;
+  row-gap: 30px;
+}
+
+#certificate{
+  max-width: 600px;
+  margin-right: 30px;
+}
+
+
+#certificate h1{
+ font-size: 32px;
+ padding-right: 25px;
+
+}
+.awa {
+  max-width: 380px;
+  padding-left: 10px;
+  display: block;
+ }
+ .web, .funix, .database{
+  display: block;
+ margin-left: 24px;
+ margin-bottom: 30px;
+ border-bottom: #d6c08d solid 1px;
+ border-left: none;
+}
+.database{
+  border-bottom: none;
+}
+.vien-doc {
+  
+  border-left: none;
+  
+}
+
+.funix, .funix .vien-doc{
+  padding-left: 0;
+}
+.wed--trai{
+  border-left:none;
+}
+
+.awa img{
+  width: 340px;
+  height: 200px;
+  margin-bottom: 22px;
+  
+}
+.trai .none{
+  margin-bottom: 25px;
+}
+
+.test{
+  display: none;
+}
+#project {
+  display: block;
+  width: 400px;
+  margin-left: 0;
+}
+
+#project img{
+  width: 400px;
+}
+
+h5{
+  width: 400px;
+}
+.list{
+  width: 400px;
+  
+}
+
+
+#project .container{
+  padding: 0;
+  height: auto;
+  margin: 0;
+ width: 400px;
+ margin-bottom: 50px;
+}
+
+
+#footer .container {
+  text-align: center;
+
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+
+#footer .container p {
+  display: none;
+  text-align: center;
+
+  margin-right: 20px;
+}
+
+#footer{
+ 
+  width: 400px;
+}
+
+table {
+  width: 370px;
+  border: #ced4da solid 1px;
+  border-collapse: collapse;
+  height: 150px;
+
+  width: 600px;
+ 
+}
+
+table {
+  width: 400px;
+  border: #ced4da solid 1px;
+  border-collapse: collapse;
+  height: 150px;
+}
+
+
+
+
+.section-title3 {
+ margin-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
